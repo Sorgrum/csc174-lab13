@@ -4,6 +4,7 @@
     </head>
     
     <h1>Space Travel</h1>
+    <a href="images/columbia.jpg" alt= "columbia takeoff"></a>
     <p>
         Spaceflight (also written space flight) is ballistic flight into or through outer space. Spaceflight can occur with spacecraft with or without humans on board. Examples of human spaceflight include the U.S. Apollo Moon landing and Space Shuttle programs and the Russian Soyuz program, as well as the ongoing International Space Station. Examples of unmanned spaceflight include space probes that leave Earth orbit, as well as satellites in orbit around Earth, such as communications satellites. These operate either by telerobotic control or are fully autonomous.
 
@@ -12,6 +13,7 @@
         A spaceflight typically begins with a rocket launch, which provides the initial thrust to overcome the force of gravity and propels the spacecraft from the surface of the Earth. Once in space, the motion of a spacecraft – both when unpropelled and when under propulsion – is covered by the area of study called astrodynamics. Some spacecraft remain in space indefinitely, some disintegrate during atmospheric reentry, and others reach a planetary or lunar surface for landing or impact.
     </p>
     
+    <a href="images/columbia2.jpg" alt="columbia landing"></a>
     <h2>Types of spaceflight</h2>
     
     <h3>Uncrewed</h3>
